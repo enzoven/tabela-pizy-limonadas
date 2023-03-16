@@ -1,12 +1,12 @@
 * { margin: 0; padding: 0; }
 
 body {
-    background: #eee; padding: 5%; font-family: "Trebuchet MS";
+    background: #eee; padding: 15%; font-family: "Trebuchet MS";
 }
 
 #corpo {
     background: #fff;
-    border: 3px solid #825490;
+    border: 2px solid #825490;
     border-radius: 5px;
     box-shadow: 5px 5px 10px rgba(0,0,0,.3);
     margin: 0 auto;   
@@ -25,7 +25,7 @@ header h1 {
 }
 
 main {
-    padding: 2%;
+    padding: 1%;
 }
 
 footer {
@@ -35,7 +35,7 @@ footer {
     border-top: 1px solid #999;
 }
 
-.imagem {
+.imagem {   
     border: 1px solid black;
     width: 100px;
     height: 100px;
