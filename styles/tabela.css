@@ -10,7 +10,7 @@ table {
     }
 
 table thead tr {
-    background: #000;
+    background: #825490;
     color: #fff;
     text-transform: uppercase;
     text-align: left;
@@ -22,7 +22,7 @@ table tbody td, table thead th { padding: 10px; }
 table tbody td { border-bottom: 1px solid #ddd; }
 
 table tbody tr:hover{
-    background-color: yellow; cursor: crosshair;
+    background-color: #ab374ac0; cursor: crosshair;
 }
 
-.zebra { background: #eee; }
+.zebra { background: #CCC; }
