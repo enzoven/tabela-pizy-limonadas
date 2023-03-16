@@ -19,6 +19,7 @@ header {
 }
 
 header h1 {
+    color: white;
     text-align: center;
     text-transform: uppercase;
 }
@@ -32,4 +33,11 @@ footer {
     text-align: center;
     padding: 2%;
     border-top: 1px solid #999;
+}
+
+.imagem {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
 }
